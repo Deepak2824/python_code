@@ -1,0 +1,2 @@
+a="deepek"
+print(a)
