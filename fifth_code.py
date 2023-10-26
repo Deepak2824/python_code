@@ -1,0 +1,5 @@
+tup1 = (1,"a",True,2,"b",False)
+print(tup1)
+print(tup1[0])
+print(tup1[-1])
+print(tup1[1:4])
